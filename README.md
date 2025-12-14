@@ -2,9 +2,9 @@
 This project is a password strength checker written in Python.
 
 ## Objectives
-First Objective: Build an automated tool that rates a user's password strength (Weak, Medium, Strong).
-Second Objective: If a user's password is rated 'Weak' or 'Medium', the tool provides suggestions to improve it.
-Third Objective: Check a user's password against a list of the top 1,000 commonly used passwords.
+- First Objective: Build an automated tool that rates a user's password strength (Weak, Medium, Strong).
+- Second Objective: If a user's password is rated 'Weak' or 'Medium', the tool provides suggestions to improve it.
+- Third Objective: Check a user's password against a list of the top 1,000 commonly used passwords.
 
 This basic security automation tool demonstrates the concepts of input validation, error handling, and file handling.  
 
